@@ -1,0 +1,26 @@
+[
+  {
+    "id": "QB",
+    "name": "Quarterback"
+  },
+  {
+    "id": "RB",
+    "name": "Running Back"
+  },
+  {
+    "id": "WR",
+    "name": "Wide Receiver"
+  },
+  {
+    "id": "TE",
+    "name": "Tight End"
+  },
+  {
+    "id": "K",
+    "name": "Kicker"
+  },
+  {
+    "id": "DST",
+    "name": "Defense & Special Teams"
+  }
+]

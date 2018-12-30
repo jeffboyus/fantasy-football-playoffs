@@ -1,0 +1,258 @@
+[
+  {
+    "id": "ARI",
+    "location": "Arizona",
+    "mascot": "Cardinals",
+    "conference": "NFC",
+    "division": "West",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/ARI.svg"
+  },
+  {
+    "id": "ATL",
+    "location": "Atlanta",
+    "mascot": "Falcons",
+    "conference": "NFC",
+    "division": "South",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/ATL.svg"
+  },
+  {
+    "id": "BAL",
+    "location": "Baltimore",
+    "mascot": "Ravens",
+    "conference": "AFC",
+    "division": "North",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/BAL.svg"
+  },
+  {
+    "id": "BUF",
+    "location": "Buffalo",
+    "mascot": "Bills",
+    "conference": "AFC",
+    "division": "EAST",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/BUF.svg"
+  },
+  {
+    "id": "CAR",
+    "location": "Carolina",
+    "mascot": "Panthers",
+    "conference": "NFC",
+    "division": "South",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/CAR.svg"
+  },
+  {
+    "id": "CIN",
+    "location": "Cincinnati",
+    "mascot": "Bengals",
+    "conference": "AFC",
+    "division": "North",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/CIN.svg"
+  },
+  {
+    "id": "CHI",
+    "location": "Chicago",
+    "mascot": "Bears",
+    "conference": "NFC",
+    "division": "North",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/CHI.svg"
+  },
+  {
+    "id": "CLE",
+    "location": "Cleveland",
+    "mascot": "Browns",
+    "conference": "AFC",
+    "division": "North",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/CLE.svg"
+  },
+  {
+    "id": "DAL",
+    "location": "Dallas",
+    "mascot": "Cowboys",
+    "conference": "NFC",
+    "division": "East",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/DAL.svg"
+  },
+  {
+    "id": "DEN",
+    "location": "Denver",
+    "mascot": "Broncos",
+    "conference": "AFC",
+    "division": "West",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/DEN.svg"
+  },
+  {
+    "id": "DET",
+    "location": "Detroit",
+    "mascot": "Lions",
+    "conference": "NFC",
+    "division": "North",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/DET.svg"
+  },
+  {
+    "id": "GB",
+    "location": "Green Bay",
+    "mascot": "Packers",
+    "conference": "NFC",
+    "division": "North",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/GB.svg"
+  },
+  {
+    "id": "HOU",
+    "location": "Houston",
+    "mascot": "Texans",
+    "conference": "AFC",
+    "division": "South",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/HOU.svg"
+  },
+  {
+    "id": "IND",
+    "location": "Indianapolis",
+    "mascot": "Colts",
+    "conference": "AFC",
+    "division": "South",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/IND.svg"
+  },
+  {
+    "id": "JAX",
+    "location": "Jacksonville",
+    "mascot": "Jaguars",
+    "conference": "AFC",
+    "division": "South",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/JAX.svg"
+  },
+  {
+    "id": "KC",
+    "location": "Kansas City",
+    "mascot": "Chiefs",
+    "conference": "AFC",
+    "division": "West",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/KC.svg"
+  },
+  {
+    "id": "LAC",
+    "location": "Los Angeles",
+    "mascot": "Chargers",
+    "conference": "AFC",
+    "division": "West",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/LAC.svg"
+  },
+  {
+    "id": "LAR",
+    "location": "Los Angeles",
+    "mascot": "Rams",
+    "conference": "NFC",
+    "division": "West",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/LA.svg"
+  },
+  {
+    "id": "MIA",
+    "location": "Miami",
+    "mascot": "Dolphins",
+    "conference": "AFC",
+    "division": "East",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/MIA.svg"
+  },
+  {
+    "id": "MIN",
+    "location": "Minnesota",
+    "mascot": "Vikings",
+    "conference": "AFC",
+    "division": "North",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/MIN.svg"
+  },
+  {
+    "id": "NE",
+    "location": "New England",
+    "mascot": "Patriots",
+    "conference": "AFC",
+    "division": "East",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/NE.svg"
+  },
+  {
+    "id": "NO",
+    "location": "New Orleans",
+    "mascot": "Saints",
+    "conference": "NFC",
+    "division": "South",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/NO.svg"
+  },
+  {
+    "id": "NYG",
+    "location": "New York",
+    "mascot": "Giants",
+    "conference": "NFC",
+    "division": "East",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/NYG.svg"
+  },
+  {
+    "id": "NYJ",
+    "location": "New York",
+    "mascot": "Jets",
+    "conference": "AFC",
+    "division": "East",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/NYJ.svg"
+  },
+  {
+    "id": "OAK",
+    "location": "Oakland",
+    "mascot": "Raiders",
+    "conference": "AFC",
+    "division": "West",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/OAK.svg"
+  },
+  {
+    "id": "PHI",
+    "location": "Philadelphia",
+    "mascot": "Eagles",
+    "conference": "NFC",
+    "division": "East",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/PHI.svg"
+  },
+  {
+    "id": "PIT",
+    "location": "Pittsburgh",
+    "mascot": "Steelers",
+    "conference": "AFC",
+    "division": "North",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/PIT.svg"
+  },
+  {
+    "id": "SEA",
+    "location": "Seattle",
+    "mascot": "Seahawks",
+    "conference": "NFC",
+    "division": "West",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/SEA.svg"
+  },
+  {
+    "id": "SF",
+    "location": "San Francisco",
+    "mascot": "49ers",
+    "conference": "NFC",
+    "division": "West",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/SF.svg"
+  },
+  {
+    "id": "TB",
+    "location": "Tampa Bay",
+    "mascot": "Buccaneers",
+    "conference": "NFC",
+    "division": "South",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/TB.svg"
+  },
+  {
+    "id": "TEN",
+    "location": "Tennessee",
+    "mascot": "Titans",
+    "conference": "AFC",
+    "division": "South",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/TEN.svg"
+  },
+  {
+    "id": "WAS",
+    "location": "Washington",
+    "mascot": "Redskins",
+    "conference": "NFC",
+    "division": "East",
+    "logo": "https://static.nfl.com/static/site/img/logos/svg/teams/WAS.svg"
+  }
+]

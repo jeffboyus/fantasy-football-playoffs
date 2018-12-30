@@ -1,0 +1,2690 @@
+[
+  {
+    "id": 1,
+    "nfl_id": "KC",
+    "position_id": "QB",
+    "name": "Patrick Mahomes",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nfl_id": "KC",
+    "position_id": "RB",
+    "name": "Spencer Ware",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nfl_id": "KC",
+    "position_id": "RB",
+    "name": "Damien Williams",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nfl_id": "KC",
+    "position_id": "WR",
+    "name": "Tyreek Hill",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nfl_id": "KC",
+    "position_id": "WR",
+    "name": "Sammy Watkins",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nfl_id": "KC",
+    "position_id": "WR",
+    "name": "Sammy Watkins",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nfl_id": "KC",
+    "position_id": "WR",
+    "name": "Demarcus Robinson",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nfl_id": "KC",
+    "position_id": "TE",
+    "name": "Travis Kelce",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nfl_id": "KC",
+    "position_id": "K",
+    "name": "Chiefs",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nfl_id": "KC",
+    "position_id": "DST",
+    "name": "Chiefs",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "nfl_id": "NE",
+    "position_id": "QB",
+    "name": "Tom Brady",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "nfl_id": "NE",
+    "position_id": "RB",
+    "name": "James White",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "nfl_id": "NE",
+    "position_id": "RB",
+    "name": "Rex Burkhead",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "nfl_id": "NE",
+    "position_id": "RB",
+    "name": "Sony Michel",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "nfl_id": "NE",
+    "position_id": "WR",
+    "name": "Julian Edelman",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "nfl_id": "NE",
+    "position_id": "WR",
+    "name": "Chris Hogan",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "nfl_id": "NE",
+    "position_id": "WR",
+    "name": "Cordarrelle Patterson",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "nfl_id": "NE",
+    "position_id": "TE",
+    "name": "Rob Gronkowski",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "nfl_id": "NE",
+    "position_id": "K",
+    "name": "Patriots",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "nfl_id": "NE",
+    "position_id": "DST",
+    "name": "Patriots",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "nfl_id": "HOU",
+    "position_id": "QB",
+    "name": "Deshaun Watson",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "nfl_id": "HOU",
+    "position_id": "RB",
+    "name": "Lamar Miller",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "nfl_id": "HOU",
+    "position_id": "RB",
+    "name": "Alfred Blue",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "nfl_id": "HOU",
+    "position_id": "WR",
+    "name": "DeAndre Hopkins",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "nfl_id": "HOU",
+    "position_id": "WR",
+    "name": "Keke Coutee",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "nfl_id": "HOU",
+    "position_id": "WR",
+    "name": "Vyncint Smith",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "nfl_id": "HOU",
+    "position_id": "TE",
+    "name": "Ryan Griffin",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "nfl_id": "HOU",
+    "position_id": "K",
+    "name": "Texans",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "nfl_id": "HOU",
+    "position_id": "DST",
+    "name": "Texans",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "nfl_id": "BAL",
+    "position_id": "QB",
+    "name": "Lamar Jackson",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "nfl_id": "BAL",
+    "position_id": "QB",
+    "name": "Joe Flacco",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "nfl_id": "BAL",
+    "position_id": "RB",
+    "name": "Gus Edwards",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "nfl_id": "BAL",
+    "position_id": "RB",
+    "name": "Javorius Allen",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "nfl_id": "BAL",
+    "position_id": "WR",
+    "name": "Michael Crabtree",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "nfl_id": "BAL",
+    "position_id": "WR",
+    "name": "John Brown",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "nfl_id": "BAL",
+    "position_id": "WR",
+    "name": "Willie Snead",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "nfl_id": "BAL",
+    "position_id": "TE",
+    "name": "Nick Boyle",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "nfl_id": "BAL",
+    "position_id": "K",
+    "name": "Ravens",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "nfl_id": "BAL",
+    "position_id": "DST",
+    "name": "Ravens",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "nfl_id": "LAC",
+    "position_id": "QB",
+    "name": "Philip Rivers",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "nfl_id": "LAC",
+    "position_id": "RB",
+    "name": "Melvin Gordon",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "nfl_id": "LAC",
+    "position_id": "RB",
+    "name": "Austin Ekeler",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "nfl_id": "LAC",
+    "position_id": "RB",
+    "name": "Justin Jackson",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "nfl_id": "LAC",
+    "position_id": "WR",
+    "name": "Keenan Allen",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "nfl_id": "LAC",
+    "position_id": "WR",
+    "name": "Mike Williams",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "nfl_id": "LAC",
+    "position_id": "WR",
+    "name": "Tyrell Williams",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "nfl_id": "LAC",
+    "position_id": "TE",
+    "name": "Virgil Green",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "nfl_id": "LAC",
+    "position_id": "TE",
+    "name": "Antonio Gates",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "nfl_id": "LAC",
+    "position_id": "K",
+    "name": "Chargers",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "nfl_id": "LAC",
+    "position_id": "DST",
+    "name": "Chargers",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "nfl_id": "IND",
+    "position_id": "QB",
+    "name": "Andrew Luck",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "nfl_id": "IND",
+    "position_id": "RB",
+    "name": "Marlon Mack",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "nfl_id": "IND",
+    "position_id": "RB",
+    "name": "Nyheim Hines",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "nfl_id": "IND",
+    "position_id": "WR",
+    "name": "T.Y. Hilton",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "nfl_id": "IND",
+    "position_id": "WR",
+    "name": "Dontrelle Inman",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "nfl_id": "IND",
+    "position_id": "WR",
+    "name": "Chester Rogers",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "nfl_id": "IND",
+    "position_id": "TE",
+    "name": "Eric Ebron",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "nfl_id": "IND",
+    "position_id": "K",
+    "name": "Colts",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "nfl_id": "IND",
+    "position_id": "DST",
+    "name": "Colts",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "nfl_id": "NO",
+    "position_id": "QB",
+    "name": "Drew Brees",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "nfl_id": "NO",
+    "position_id": "RB",
+    "name": "Alvin Kamara",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "nfl_id": "NO",
+    "position_id": "RB",
+    "name": "Mark Ingram",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "nfl_id": "NO",
+    "position_id": "WR",
+    "name": "Michael Thomas",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "nfl_id": "NO",
+    "position_id": "WR",
+    "name": "Tre'Quan Smith",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "nfl_id": "NO",
+    "position_id": "WR",
+    "name": "Tommylee Lewis",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "nfl_id": "NO",
+    "position_id": "TE",
+    "name": "Benjamin Watson",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "nfl_id": "NO",
+    "position_id": "TE",
+    "name": "Josh Hill",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "nfl_id": "NO",
+    "position_id": "K",
+    "name": "Saints",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "nfl_id": "NO",
+    "position_id": "DST",
+    "name": "Saints",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "nfl_id": "LAR",
+    "position_id": "QB",
+    "name": "Jared Goff",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "nfl_id": "LAR",
+    "position_id": "RB",
+    "name": "Todd Gurley",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "nfl_id": "LAR",
+    "position_id": "RB",
+    "name": "C.J. Anderson",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "nfl_id": "LAR",
+    "position_id": "WR",
+    "name": "Brandin Cooks",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "nfl_id": "LAR",
+    "position_id": "WR",
+    "name": "Robert Woods",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "nfl_id": "LAR",
+    "position_id": "WR",
+    "name": "Josh Reynolds",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "nfl_id": "LAR",
+    "position_id": "TE",
+    "name": "Gerald Everett",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "nfl_id": "LAR",
+    "position_id": "K",
+    "name": "Rams",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "nfl_id": "LAR",
+    "position_id": "DST",
+    "name": "Rams",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "nfl_id": "CHI",
+    "position_id": "QB",
+    "name": "Mitchell Trubisky",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "nfl_id": "CHI",
+    "position_id": "RB",
+    "name": "Jordan Howard",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "nfl_id": "CHI",
+    "position_id": "RB",
+    "name": "Tarik Cohen",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "nfl_id": "CHI",
+    "position_id": "WR",
+    "name": "Allen Robinson",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "nfl_id": "CHI",
+    "position_id": "WR",
+    "name": "Taylor Gabriel",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "nfl_id": "CHI",
+    "position_id": "WR",
+    "name": "Kevin White",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "nfl_id": "CHI",
+    "position_id": "TE",
+    "name": "Trey Burton",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "nfl_id": "CHI",
+    "position_id": "K",
+    "name": "Bears",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "nfl_id": "CHI",
+    "position_id": "DST",
+    "name": "Bears",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "nfl_id": "DAL",
+    "position_id": "QB",
+    "name": "Dak Prescott",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "nfl_id": "DAL",
+    "position_id": "RB",
+    "name": "Ezekiel Elliott",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "nfl_id": "DAL",
+    "position_id": "WR",
+    "name": "Amari Cooper",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "nfl_id": "DAL",
+    "position_id": "WR",
+    "name": "Cole Beasley",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "nfl_id": "DAL",
+    "position_id": "WR",
+    "name": "Allen Hurns",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "nfl_id": "DAL",
+    "position_id": "TE",
+    "name": "Geoff Swaim",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "nfl_id": "DAL",
+    "position_id": "K",
+    "name": "Cowboys",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "nfl_id": "DAL",
+    "position_id": "DST",
+    "name": "Cowboys",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "nfl_id": "SEA",
+    "position_id": "QB",
+    "name": "Russell Wilson",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "nfl_id": "SEA",
+    "position_id": "RB",
+    "name": "Chris Carson",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "nfl_id": "SEA",
+    "position_id": "RB",
+    "name": "Mike Davis",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "nfl_id": "SEA",
+    "position_id": "WR",
+    "name": "Doug Baldwin",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "nfl_id": "SEA",
+    "position_id": "WR",
+    "name": "Tyler Lockett",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "nfl_id": "SEA",
+    "position_id": "TE",
+    "name": "Nick Vannett",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "nfl_id": "SEA",
+    "position_id": "TE",
+    "name": "Ed Dickson",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "nfl_id": "SEA",
+    "position_id": "K",
+    "name": "Seahawks",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "nfl_id": "SEA",
+    "position_id": "DST",
+    "name": "Seahawks",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "nfl_id": "MIN",
+    "position_id": "QB",
+    "name": "Kirk Cousins",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "nfl_id": "MIN",
+    "position_id": "RB",
+    "name": "Dalvin Cook",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "nfl_id": "MIN",
+    "position_id": "RB",
+    "name": "Latavius Murray",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "nfl_id": "MIN",
+    "position_id": "WR",
+    "name": "Adam Thielen",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "nfl_id": "MIN",
+    "position_id": "WR",
+    "name": "Stefon Diggs",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "nfl_id": "MIN",
+    "position_id": "TE",
+    "name": "Kyle Rudolph",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "nfl_id": "MIN",
+    "position_id": "K",
+    "name": "Vikings",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "nfl_id": "MIN",
+    "position_id": "DST",
+    "name": "Vikings",
+    "scores": [
+      {
+        "round_id": "WC",
+        "total": 0
+      },
+      {
+        "round_id": "DIV",
+        "total": 0
+      },
+      {
+        "round_id": "CONF",
+        "total": 0
+      },
+      {
+        "round_id": "SB",
+        "total": 0
+      }
+    ]
+  },
+]
